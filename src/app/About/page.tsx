@@ -20,7 +20,7 @@ const About = () => {
         My name is <b>HIBA OWAIS</b>, and I am a Frontend developer with a passion for creating creative solutions using modern web technologies. I specialize in frontend development, particularly with React.js and Next.js, where I design dynamic and engaging websites.
         I have strong skills in HTML, CSS, JavaScript,TypeScript and React. Additionally, I have a good understanding of backend technologies like Node.js.
         In the future, I aim to further enhance my skills in full-stack development and take on new challenges. I believe in continuously learning and upgrading my skills every day.
-        If you're interested in my work or would like to discuss a project or job opportunity, feel free to reach out.
+        If you are interested in my work or would like to discuss a project or job opportunity, feel free to reach out.
 
          </p>
       </div>
